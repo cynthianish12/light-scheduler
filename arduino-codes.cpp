@@ -1,4 +1,3 @@
-// Arduino code (should be uploaded separately)
 const int relayPin = 2;
 
 void setup() {
